@@ -18,6 +18,11 @@ __Participantes__:
 
 ***
 
-####Decisões & Tarefas
+####Decisões
+
+- Vamos comprar uma esponja
+
+####Tarefas
 
 - Comprar esponja (Goku)
+- Enviar email com ata da reunião (Indiana Jones)
