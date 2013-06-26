@@ -1,10 +1,7 @@
-__Data:__ 25/05/2042
-
-__horário:__ 19:30
-
-__Local:__ tarrafa-arquitetura
-
-__Participantes__:
+__Data:__ 25/05/2042  
+__horário:__ 19:30  
+__Local:__ tarrafa-arquitetura  
+__Participantes__:  
 
 - Goku
 - Jon Snow
