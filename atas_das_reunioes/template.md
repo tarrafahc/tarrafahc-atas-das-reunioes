@@ -16,6 +16,8 @@ __Participantes__:
 - Agatha Christie informa que descobriu mais uma evidência no caso do resistor perdido
 - Nikola Tesla informa que acabaram os capacitores
 
+***
+
 ####Decisões & Tarefas
 
 - Comprar esponja (Goku)
